@@ -9,7 +9,7 @@ Author URI: http://98.81.83.79:80/
 */
 
 function cicd_saludo() {
-    echo '<p>Hola! Este es mi plugin CI-CD activo. Prueba Semestral</p>';
+    echo '<p>Hola! Este es mi plugin CI-CD activo. Prueba Semestral demo</p>';
 }
 
 add_action('wp_footer', 'cicd_saludo');

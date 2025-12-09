@@ -1,4 +1,4 @@
-<?php<?php
+<?php
 /*
 Plugin Name: CI-CD
 Plugin URI: http://98.81.83.79:80/

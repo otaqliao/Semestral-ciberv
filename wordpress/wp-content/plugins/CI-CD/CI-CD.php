@@ -1,4 +1,4 @@
-<?php
+<?php<?php
 /*
 Plugin Name: CI-CD
 Plugin URI: http://98.81.83.79:80/
@@ -9,7 +9,7 @@ Author URI: http://98.81.83.79:80/
 */
 
 function cicd_saludo() {
-    echo '<p>Hola! Este es mi plugin CI-CD activo.</p>';
+    echo '<p>Hola! Este es mi plugin CI-CD activo. Prueba Semestral</p>';
 }
 
 add_action('wp_footer', 'cicd_saludo');
